@@ -1,5 +1,5 @@
 ---
-name: Default Template
+name: Default Template outside
 about: Create issue with this when you don't have any specific issue template to use. 
 title: ''
 labels: ''
