@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Bug/Enhancement Template
 about: Suggest an idea for this project
 title: ''
 labels: ''
