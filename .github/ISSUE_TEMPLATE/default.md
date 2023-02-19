@@ -1,5 +1,5 @@
 ---
-name: Default Template outside
+name: Default Template
 about: Create issue with this when you don't have any specific issue template to use. 
 title: ''
 labels: ''
@@ -7,6 +7,12 @@ assignees: ''
 ---
 
 (Description summary of the issue and what needs to be achieved goes here, Try to answer questions such as `why?` in this section, `what?` goes in execution below and `how?` part will go into the handbook which will be linked here.)
+
+## Actor
+-  Who can perform the task
+
+## Acceptance Criteria 
+- Various conditions that needs to successfully executed for user story to pass.
 
 ## Tasks
 
