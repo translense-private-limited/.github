@@ -10,16 +10,17 @@ Any additional comments that the developer wants to add.
 *To be updated by the maintainer/code reviewer processing a pull request.*
 
 ### Conformity
-
-Check off each item when the guidelines are met for the code written.
-
+**1) Developer**
 - [ ] Documentation and Update README.md.
 - [ ] No custom linter rules are added and all code linting rules are passed.
-- [ ] NPM packages are audited and (1) no unused packages are present and (2) no package has any security vulnerability reported at a moderate level on production dependencies.
+- [ ] Postman Collection update
+- [ ] Postman collection PR send
+
+**Reviewer**
+- [ ] Postman collection reviewed
 
 ### Availability and Testing
 
 - [ ] Project must build successfully
 - [ ] All test cases are passed
-- [ ] Postman document is updated
 
