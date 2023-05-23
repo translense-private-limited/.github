@@ -1,15 +1,10 @@
 ---
 name: Training Template
 about: Use this template for related stuff. 
-title: ''
+title: 'Title of topic/concept'
 labels: ''
 assignees: ''
 ---
-
-(Description summary of the issue and what needs to be achieved goes here, Try to answer questions such as `why?` in this section, `what?` goes in execution below and `how?` part will go into the handbook which will be linked here.)
-
-## Topic
--  What concept you are going to cover
 
 ## Descriptions
 - Brief description about topic/concept
